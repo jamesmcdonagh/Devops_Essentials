@@ -49,7 +49,7 @@
 ## [Address Technical Debt](https://18f.gsa.gov/2015/09/04/what-is-technical-debt/)
 
 # Lean to Continuous Integration
-
+![alt text](https://github.com/jamesmcdonagh/Devops_Essentials/blob/master/images/lean.png "Continuous Delivery to Continuous Deployment")
 
 ## ["cattle rather than pets"](https://www.theregister.co.uk/2013/03/18/servers_pets_or_cattle_cern/) 
 - the paradigm of disposable server infrastructure.
