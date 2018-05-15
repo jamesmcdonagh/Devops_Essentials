@@ -70,6 +70,7 @@
 
 # Continuous Integration to Continuous Delivery
 
+
 ## [Continuous Delivery](https://techbeacon.com/agile-devops-continuous-delivery-evolution-software-delivery) 
 - Continuous Delivery is a key part of the evolution of adopting a DevOps culture.
 ## [Deployment Pipelines](https://continuousdelivery.com/implementing/patterns/) 
@@ -88,6 +89,7 @@
 ## [Decrease lead time](https://techbeacon.com/doing-continuous-delivery-focus-first-reducing-release-cycle-times)
 
 # Continuous Delivery to Continuous Deployment
+![alt text](https://github.com/jamesmcdonagh/Devops_Essentials/blob/master/images/continuous-delivery-versus-continuous-deployment.png "Continuous Delivery to Continuous Deployment")
 
 ## [Feature Toggles](https://martinfowler.com/bliki/FeatureToggle.html) 
 - rather than feature branches, avoiding merge hell and more control over features and deployments.
