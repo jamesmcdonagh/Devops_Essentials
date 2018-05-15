@@ -1,11 +1,14 @@
 # Waterfall to Agile
-![alt text](.../images/agile-02-716x400.png "Waterfall to Agile")
+![alt text](https://github.com/jamesmcdonagh/Devops_Essentials/blob/master/images/agile-02-716x400.png "Waterfall to Agile")
 
-## [People are the key](https://techbeacon.com/psychology-devops-understanding-people-key-success) - Get everyone together at the beginning. Keep meeting. Make it easy for everyone to see what’s happening.
-## [Products not projects](https://www.madetech.com/blog/products-not-projects) - Delivery teams run software products, not projects, that run from inception to retirement.
-## [Keep everything in version control](https://www.ibm.com/developerworks/library/a-devops6/index.html), all code should be under version control, allowing for code development and review, source code management tools, code merging.
-## [Culture](https://martinfowler.com/bliki/DevOpsCulture.html) - There's [t-shirts](https://www.redbubble.com/shop/devops+t-shirts), [songs](https://www.youtube.com/watch?v=pebIr4F-vjQ), [music videos](https://www.youtube.com/watch?v=iYLxw6OsZug), [podcasts](http://devopscafe.org/), [books](https://medium.com/devopslinks/10-great-books-for-aspiring-devops-sre-engineers-76536c7c4909). DevOps is as much about preaching as it is practicing.
-## [Kanban](http://blog.crisp.se/mattiasskarin/files/slides/introducing_kanban_in_operations.pdf) - Being able to limit the flow of work to a given worker is key, you must limit work in progress.
+## [People are the key](https://techbeacon.com/psychology-devops-understanding-people-key-success) 
+- Get everyone together at the beginning. Keep meeting. Make it easy for everyone to see what’s happening.
+## [Products not projects](https://www.madetech.com/blog/products-not-projects) 
+- Delivery teams run software products, not projects, that run from inception to retirement.
+## [Keep everything in version control](https://www.ibm.com/developerworks/library/a-devops6/index.html)
+- all code should be under version control, allowing for code development and review, source code management tools, code merging.
+## [Kanban](http://blog.crisp.se/mattiasskarin/files/slides/introducing_kanban_in_operations.pdf) 
+- Being able to limit the flow of work to a given worker is key, you must limit work in progress.
 ## [Domain Driven Design](https://www.thoughtworks.com/insights/blog/domain-driven-design-services-architecture)
 ## [System metaphor](https://en.wikibooks.org/wiki/Software_Engineering_with_an_Agile_Development_Framework/Iteration_One/System_metaphor)
 ## [Systems thinking](https://en.wikipedia.org/wiki/Systems_theory)
@@ -23,6 +26,7 @@
 ## [Apply Conway's law](https://haacked.com/archive/2013/05/13/applying-conways-law.aspx/)
 
 # Agile to Lean
+![alt text](https://github.com/jamesmcdonagh/Devops_Essentials/blob/master/images/Agile-and-Lean-.png "Agile to lean")
 
 ## [Continuous Improvement](https://en.wikipedia.org/wiki/Kaizen) - An “improvement,” or “change for the better” which refers to a philosophy or practices that focus on continuous improvement of processes in manufacturing, engineering, game development, and business management.
 ## [Reduce waste](https://itrevolution.com/japanese-words-for-devops-practitioners/)
@@ -40,6 +44,7 @@
 ## [Address Technical Debt](https://18f.gsa.gov/2015/09/04/what-is-technical-debt/)
 
 # Lean to Continuous Integration
+
 
 ## ["cattle rather than pets"](https://www.theregister.co.uk/2013/03/18/servers_pets_or_cattle_cern/) - the paradigm of disposable server infrastructure.
 ## [Achieving 10 deployments per day](https://www.youtube.com/watch?v=LdOe18KhtT4) - the story of how Flickr adopted DevOps.
