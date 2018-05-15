@@ -16,11 +16,13 @@
 ## [Prioritisation - Work on the most important thing first](http://www.theagilemindset.co.uk/the-scrum-philosophy/)
 ## [Use analogies to communicate important concepts](http://www.techrepublic.com/blog/10-things/10-ways-to-explain-things-more-effectively/)
 ## [Blameless Post-Mortems](https://codeascraft.com/2012/05/22/blameless-postmortems/)
-## [Release early, release often](http://www.catb.org/esr/writings/homesteading/cathedral-bazaar/ar01s04.html) - until code is in production, no value is actually being generated. [If it hurts, do it more often](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html), and bring the pain forward.
-## Release often - [How to eat an elephant - one bite at a time](https://www.linkedin.com/pulse/how-eat-elephant-one-bite-time-asia-shahzad/)
-## Listen to customers - Close the loop, focus on building a great product that people want to use
+## [Release early, release often](http://www.catb.org/esr/writings/homesteading/cathedral-bazaar/ar01s04.html) 
+- Until code is in production, no value is actually being generated. [If it hurts, do it more often](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html), and bring the pain forward.
+## Listen to customers 
+- Close the loop, focus on building a great product that people want to use
 ## [Specification by Example](https://www.thoughtworks.com/insights/blog/specification-example)
-## [Shu-Ha-Ri](https://martinfowler.com/bliki/ShuHaRi.html) - Follow the rule, break the rule, be the rule.
+## [Shu-Ha-Ri](https://martinfowler.com/bliki/ShuHaRi.html) 
+- Follow the rule, break the rule, be the rule.
 ## [Sacrificial Architecture](https://martinfowler.com/bliki/SacrificialArchitecture.html)
 ## [Embrace failure](https://www.thebalance.com/steve-jobs-and-how-embracing-failure-saved-apple-1200640)
 ## [Apply Conway's law](https://haacked.com/archive/2013/05/13/applying-conways-law.aspx/)
@@ -28,10 +30,13 @@
 # Agile to Lean
 ![alt text](https://github.com/jamesmcdonagh/Devops_Essentials/blob/master/images/Agile-and-Lean-.png "Agile to lean")
 
-## [Continuous Improvement](https://en.wikipedia.org/wiki/Kaizen) - An “improvement,” or “change for the better” which refers to a philosophy or practices that focus on continuous improvement of processes in manufacturing, engineering, game development, and business management.
+## [Continuous Improvement](https://en.wikipedia.org/wiki/Kaizen) 
+- An “improvement,” or “change for the better” which refers to a philosophy or practices that focus on continuous improvement of processes in manufacturing, engineering, game development, and business management.
 ## [Reduce waste](https://itrevolution.com/japanese-words-for-devops-practitioners/)
-## [No silos](https://continuousdelivery.com/2012/10/theres-no-such-thing-as-a-devops-team/) - Cross-functional teams and T-shaped people, an attitude of shared responsibility is an aspect of DevOps culture that encourages closer [collaboration](https://blog.chef.io/2017/03/01/devops-is-all-about-collaboration/).
-## [Key Performance Indicators](https://www.atlassian.com/devops#measurement) - Management thinker Peter Drucker is often quoted as saying that "you can't improve what you can't measure".
+## [No silos](https://continuousdelivery.com/2012/10/theres-no-such-thing-as-a-devops-team/) 
+- Cross-functional teams and T-shaped people, an attitude of shared responsibility is an aspect of DevOps culture that encourages closer [collaboration](https://blog.chef.io/2017/03/01/devops-is-all-about-collaboration/).
+## [Key Performance Indicators](https://www.atlassian.com/devops#measurement) 
+- Management thinker Peter Drucker is often quoted as saying that "you can't improve what you can't measure".
 ## [Non-Functional Requirements as user stories](https://legacy.devopsdays.org/blog/wp-content/uploads/2010/02/rachel-davies-nonfunctional-devopsdays.pdf)
 ## [Minimum viable product](http://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
 ## [A journey, not a destination](https://notafactoryanymore.com/2015/08/14/a-personal-devops-journey-or-a-never-ending-journey-to-mastery/)
@@ -46,24 +51,35 @@
 # Lean to Continuous Integration
 
 
-## ["cattle rather than pets"](https://www.theregister.co.uk/2013/03/18/servers_pets_or_cattle_cern/) - the paradigm of disposable server infrastructure.
-## [Achieving 10 deployments per day](https://www.youtube.com/watch?v=LdOe18KhtT4) - the story of how Flickr adopted DevOps.
-## [Continuous Integration](https://martinfowler.com/bliki/ContinuousIntegrationCertification.html) - When the build fails, it’s usually back to green within ten minutes.
-## [Quality Built In](https://www.slideshare.net/AndrewDzynia/quality-built-in/) - Build quality in, from start to end. Quality is not something you tack on the end.
-## [Don't fire the QA](https://www.thoughtworks.com/insights/blog/qa-role-what-it-really) - Are we building the correct product? If so, are we building it correctly?
+## ["cattle rather than pets"](https://www.theregister.co.uk/2013/03/18/servers_pets_or_cattle_cern/) 
+- the paradigm of disposable server infrastructure.
+## [Achieving 10 deployments per day](https://www.youtube.com/watch?v=LdOe18KhtT4) 
+- the story of how Flickr adopted DevOps.
+## [Continuous Integration](https://martinfowler.com/bliki/ContinuousIntegrationCertification.html) 
+- When the build fails, it’s usually back to green within ten minutes.
+## [Quality Built In](https://www.slideshare.net/AndrewDzynia/quality-built-in/) 
+- Build quality in, from start to end. Quality is not something you tack on the end.
+## [Don't fire the QA](https://www.thoughtworks.com/insights/blog/qa-role-what-it-really) 
+- Are we building the correct product? If so, are we building it correctly?
 ## [Automation](https://dzone.com/articles/what-is-devops-and-how-automation-helps-achieve-it)
 ## [Test Automation](https://www.atlassian.com/blog/devops/test-automation-secret-devops-success)
 ## [Automation over documentation](https://githubengineering.com/runnable-documentation/)
 ## [Shift left](https://dzone.com/articles/the-shift-left-principle-and-devops-1)
-## [Testing as code](http://www.bbc.co.uk/blogs/internet/entries/ff14236d-098a-3565-b678-ff4ba5776a5f) - Use the gherkin language "[Business Readable, Domain Specific Language](https://martinfowler.com/bliki/BusinessReadableDSL.html)", for manual as well as automated. Keep all your tests with your code, use version control to track changes.
+## [Testing as code](http://www.bbc.co.uk/blogs/internet/entries/ff14236d-098a-3565-b678-ff4ba5776a5f) 
+- Use the gherkin language "[Business Readable, Domain Specific Language](https://martinfowler.com/bliki/BusinessReadableDSL.html)", for manual as well as automated. Keep all your tests with your code, use version control to track changes.
 
 # Continuous Integration to Continuous Delivery
 
-## [Continuous Delivery](https://techbeacon.com/agile-devops-continuous-delivery-evolution-software-delivery) - Continuous Delivery is a key part of the evolution of adopting a DevOps culture.
-## [Deployment Pipelines](https://continuousdelivery.com/implementing/patterns/) - Get humans out of the deployment business. Create a repeatable, reliable process for releasing software.
-## [Trunk based Development](https://www.thoughtworks.com/insights/blog/enabling-trunk-based-development-deployment-pipelines) - Moving to trunk-based development is an ([essential step in getting to continuous deployment](https://engineering.moonpig.com/development/move-to-trunk-based-development-without-the-chaos)).
-## [Production-ready software](https://www.slideshare.net/jezhumble/devops-and-agile-release-management) - Fast, automated feedback on the production readiness of your applications every time there is a change - to code, infrastructure, or configuration.
-## [Everything as code](https://www.slideshare.net/dubsquared/eac-25454047) - Infrastructure as Code, Security as Code, Compliance as Code, Testing as Code.
+## [Continuous Delivery](https://techbeacon.com/agile-devops-continuous-delivery-evolution-software-delivery) 
+- Continuous Delivery is a key part of the evolution of adopting a DevOps culture.
+## [Deployment Pipelines](https://continuousdelivery.com/implementing/patterns/) 
+- Get humans out of the deployment business. Create a repeatable, reliable process for releasing software.
+## [Trunk based Development](https://www.thoughtworks.com/insights/blog/enabling-trunk-based-development-deployment-pipelines) 
+- Moving to trunk-based development is an ([essential step in getting to continuous deployment](https://engineering.moonpig.com/development/move-to-trunk-based-development-without-the-chaos)).
+## [Production-ready software](https://www.slideshare.net/jezhumble/devops-and-agile-release-management) 
+- Fast, automated feedback on the production readiness of your applications every time there is a change - to code, infrastructure, or configuration.
+## [Everything as code](https://www.slideshare.net/dubsquared/eac-25454047) 
+- Infrastructure as Code, Security as Code, Compliance as Code, Testing as Code.
 ## [Reduce the risk of releasing](http://slidesha.re/dsSZIr)
 ## [Automate (almost) everything](https://www.thoughtworks.com/insights/blog/automate-almost-everything)
 ## [Securing Software through Continuous Delivery](https://www.oreilly.com/learning/devopssec-securing-software-through-continuous-delivery)
@@ -73,15 +89,18 @@
 
 # Continuous Delivery to Continuous Deployment
 
-## [Feature Toggles](https://martinfowler.com/bliki/FeatureToggle.html) rather than feature branches, avoiding merge hell and more control over features and deployments.
-## [Infrastructure as Code](https://stochasticresonance.wordpress.com/2009/07/12/infrastructure-renaissance/) - Using orchestration and provisioning tools such as Terraform, Docker, Kubernetes, Ansible, Chef, Puppet.
+## [Feature Toggles](https://martinfowler.com/bliki/FeatureToggle.html) 
+- rather than feature branches, avoiding merge hell and more control over features and deployments.
+## [Infrastructure as Code](https://stochasticresonance.wordpress.com/2009/07/12/infrastructure-renaissance/) 
+- Using orchestration and provisioning tools such as Terraform, Docker, Kubernetes, Ansible, Chef, Puppet.
 ## [Done means released](https://blog.codecentric.de/en/2010/10/devopsdays-in-hamburg-%E2%80%9Cdone%E2%80%9D-means-released/)
 ## [Everybody is responsible for delivery](http://blog.macisaacconsulting.com/continuous-delivery-everybody-responsible-quality/)
 
 # Continuous Deployment to Continuous Operations
 
 ## [Blue Green Deployments](https://martinfowler.com/bliki/BlueGreenDeployment.html)
-## [Put devs on call](https://victorops.com/putting-devs-on-call/) - Developers are responsible for monitoring and alerting
+## [Put devs on call](https://victorops.com/putting-devs-on-call/) 
+- Developers are responsible for monitoring and alerting
 ## [High Scalability](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)
 ## [Moving from Monoliths to Microservices](https://gotocon.com/amsterdam-2016/presentation/Journey%20from%20Monolith%20to%20Microservices%20and%20DevOps)
 ## [Data-driven products](https://medium.com/@neal_lathia/what-do-we-mean-when-we-talk-about-data-driven-products-127ceb3e6cf)
