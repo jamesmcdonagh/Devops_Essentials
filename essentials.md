@@ -18,8 +18,6 @@
 ## [Blameless Post-Mortems](https://codeascraft.com/2012/05/22/blameless-postmortems/)
 ## [Release early, release often](http://www.catb.org/esr/writings/homesteading/cathedral-bazaar/ar01s04.html) 
 - Until code is in production, no value is actually being generated. [If it hurts, do it more often](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html), and bring the pain forward.
-## Listen to customers 
-- Close the loop, focus on building a great product that people want to use
 ## [Specification by Example](https://www.thoughtworks.com/insights/blog/specification-example)
 ## [Shu-Ha-Ri](https://martinfowler.com/bliki/ShuHaRi.html) 
 - Follow the rule, break the rule, be the rule.
