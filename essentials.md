@@ -69,7 +69,7 @@
 - Use the gherkin language "[Business Readable, Domain Specific Language](https://martinfowler.com/bliki/BusinessReadableDSL.html)", for manual as well as automated. Keep all your tests with your code, use version control to track changes.
 
 # Continuous Integration to Continuous Delivery
-
+![alt text](https://github.com/jamesmcdonagh/Devops_Essentials/blob/master/images/CI-CD-CD-Process.png "Continuous Delivery to Continuous Deployment")
 
 ## [Continuous Delivery](https://techbeacon.com/agile-devops-continuous-delivery-evolution-software-delivery) 
 - Continuous Delivery is a key part of the evolution of adopting a DevOps culture.
