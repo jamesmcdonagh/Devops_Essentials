@@ -99,6 +99,7 @@
 ## [Everybody is responsible for delivery](http://blog.macisaacconsulting.com/continuous-delivery-everybody-responsible-quality/)
 
 # Continuous Deployment to Continuous Operations
+![alt text](https://github.com/jamesmcdonagh/Devops_Essentials/blob/master/images/continuousoperations.png "Continuous Delivery to Continuous Deployment")
 
 ## [Blue Green Deployments](https://martinfowler.com/bliki/BlueGreenDeployment.html)
 ## [Put devs on call](https://victorops.com/putting-devs-on-call/) 
