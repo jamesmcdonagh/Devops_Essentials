@@ -15,7 +15,7 @@
 - System Metaphor has been adopted as a core practice by the agile community. 
 ## [Systems thinking](https://en.wikipedia.org/wiki/Systems_theory)
 ## [Two Pizza Teams](http://blog.idonethis.com/two-pizza-team/)
-## [Prioritisation 
+## [Prioritisation]
 - Work on the most important thing first](http://www.theagilemindset.co.uk/the-scrum-philosophy/)
 ## [Use analogies to communicate important concepts](http://www.techrepublic.com/blog/10-things/10-ways-to-explain-things-more-effectively/)
 ## [Blameless Post-Mortems](https://codeascraft.com/2012/05/22/blameless-postmortems/)
