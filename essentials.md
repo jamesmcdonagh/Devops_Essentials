@@ -16,7 +16,7 @@
 ## [Systems thinking](https://en.wikipedia.org/wiki/Systems_theory)
 ## [Two Pizza Teams](http://blog.idonethis.com/two-pizza-team/)
 ## [Prioritisation](http://www.theagilemindset.co.uk/the-scrum-philosophy/)
-- Work on the most important thing first]
+- Work on the most important thing first
 ## [Use analogies to communicate important concepts](http://www.techrepublic.com/blog/10-things/10-ways-to-explain-things-more-effectively/)
 ## [Blameless Post-Mortems](https://codeascraft.com/2012/05/22/blameless-postmortems/)
 ## [Release early, release often](http://www.catb.org/esr/writings/homesteading/cathedral-bazaar/ar01s04.html) 
