@@ -18,7 +18,8 @@
 - Bezos believes teams shouldn’t be larger than what two pizzas can feed. Small teams make it easier to communicate more effectively rather than more, to stay decentralized and moving fast, and encourage high autonomy and innovation.
 ## [Prioritisation](http://www.theagilemindset.co.uk/the-scrum-philosophy/)
 - Work on the most important thing first
-## [Use analogies to communicate important concepts](http://www.techrepublic.com/blog/10-things/10-ways-to-explain-things-more-effectively/)
+## [How to explain things more effectively](http://www.techrepublic.com/blog/10-things/10-ways-to-explain-things-more-effectively/)
+- POV, Questions, Simple, Analogies, Benefits not features
 ## [Blameless Post-Mortems](https://codeascraft.com/2012/05/22/blameless-postmortems/)
 ## [Release early, release often](http://www.catb.org/esr/writings/homesteading/cathedral-bazaar/ar01s04.html) 
 - Until code is in production, no value is actually being generated. [If it hurts, do it more often](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html), and bring the pain forward.
