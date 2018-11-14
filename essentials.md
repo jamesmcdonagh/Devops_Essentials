@@ -21,6 +21,7 @@
 ## [How to explain things more effectively](http://www.techrepublic.com/blog/10-things/10-ways-to-explain-things-more-effectively/)
 - POV, Questions, Simple, Analogies, Benefits not features
 ## [Blameless Post-Mortems](https://codeascraft.com/2012/05/22/blameless-postmortems/)
+- Having a “blameless” Post-Mortem process means that engineers whose actions have contributed to an accident can give a detailed account of the incident without fear of punishment or retribution.
 ## [Release early, release often](http://www.catb.org/esr/writings/homesteading/cathedral-bazaar/ar01s04.html) 
 - Until code is in production, no value is actually being generated. [If it hurts, do it more often](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html), and bring the pain forward.
 ## [Specification by Example](https://www.thoughtworks.com/insights/blog/specification-example)
