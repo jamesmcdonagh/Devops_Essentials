@@ -25,8 +25,9 @@
 ## [Release early, release often](http://www.catb.org/esr/writings/homesteading/cathedral-bazaar/ar01s04.html) 
 - Until code is in production, no value is actually being generated. [If it hurts, do it more often](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html), and bring the pain forward.
 ## [Specification by Example](https://www.thoughtworks.com/insights/blog/specification-example)
+- This is a story about how a team can successfully implement automated testing, not only delivering a comprehensive regression test suite, but living documentation of the system.
 ## [Shu-Ha-Ri](https://martinfowler.com/bliki/ShuHaRi.html) 
-- Follow the rule, break the rule, be the rule.
+- Follow the rule, break the rule, be the rule. AKA Imitate, Assimilate, Innovate.
 ## [Sacrificial Architecture](https://martinfowler.com/bliki/SacrificialArchitecture.html)
 ## [Embrace failure](https://www.thebalance.com/steve-jobs-and-how-embracing-failure-saved-apple-1200640)
 ## [Apply Conway's law](https://haacked.com/archive/2013/05/13/applying-conways-law.aspx/)
