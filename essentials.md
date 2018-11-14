@@ -33,6 +33,7 @@
 ## [Embrace failure](https://www.thebalance.com/steve-jobs-and-how-embracing-failure-saved-apple-1200640)
 - Take risks along the way, push for the results you want to see in your business, and accept that there will be failures at times.
 ## [Apply Conway's law](https://haacked.com/archive/2013/05/13/applying-conways-law.aspx/)
+- It’s an observation of how software structures tend to follow social structures.
 
 # Agile to Lean
 ![alt text](https://github.com/jamesmcdonagh/Devops_Essentials/blob/master/images/Agile-and-Lean-.png "Agile to lean")
