@@ -29,7 +29,9 @@
 ## [Shu-Ha-Ri](https://martinfowler.com/bliki/ShuHaRi.html) 
 - Follow the rule, break the rule, be the rule. AKA Imitate, Assimilate, Innovate.
 ## [Sacrificial Architecture](https://martinfowler.com/bliki/SacrificialArchitecture.html)
+- Often the best code you can write now is code you'll discard in a couple of years time.
 ## [Embrace failure](https://www.thebalance.com/steve-jobs-and-how-embracing-failure-saved-apple-1200640)
+- Take risks along the way, push for the results you want to see in your business, and accept that there will be failures at times.
 ## [Apply Conway's law](https://haacked.com/archive/2013/05/13/applying-conways-law.aspx/)
 
 # Agile to Lean
