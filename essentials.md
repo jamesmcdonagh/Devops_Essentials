@@ -41,6 +41,7 @@
 ## [Continuous Improvement](https://en.wikipedia.org/wiki/Kaizen) 
 - An “improvement,” or “change for the better” which refers to a philosophy or practices that focus on continuous improvement of processes in manufacturing, engineering, game development, and business management.
 ## [Reduce waste](https://itrevolution.com/japanese-words-for-devops-practitioners/)
+- Japanese Terms For DevOps Practitioners
 ## [No silos](https://continuousdelivery.com/2012/10/theres-no-such-thing-as-a-devops-team/) 
 - Cross-functional teams and T-shaped people, an attitude of shared responsibility is an aspect of DevOps culture that encourages closer [collaboration](https://blog.chef.io/2017/03/01/devops-is-all-about-collaboration/).
 ## [Key Performance Indicators](https://www.atlassian.com/devops#measurement) 
@@ -122,3 +123,9 @@
 ## [Platform as a service](https://blogs.msdn.microsoft.com/brunoterkaly/2014/04/17/the-devops-story-why-it-is-really-about-platform-as-a-service/)
 ## [Cloud](https://www.infoq.com/articles/cloud-and-devops)
 ## [Design for failure](https://martinfowler.com/articles/microservices.html#DesignForFailure)
+
+# General Devops Links
+![alt text](https://github.com/jamesmcdonagh/Devops_Essentials/blob/master/images/1200px-Devops-toolchain.png "DevOps Toolchain")
+
+## [100 DevOps Terms](https://dzone.com/articles/100-devops-terms-or-what-does-your-devops-say?edition=417241&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202018-11-21)
+-DevOps engineers and developers need to know these terms surrounding DevOps, CI/CD, and the cloud
